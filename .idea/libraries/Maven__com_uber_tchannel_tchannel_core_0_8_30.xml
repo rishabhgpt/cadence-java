@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.uber.tchannel:tchannel-core:0.8.30">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/uber/tchannel/tchannel-core/0.8.30/tchannel-core-0.8.30.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/uber/tchannel/tchannel-core/0.8.30/tchannel-core-0.8.30-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/uber/tchannel/tchannel-core/0.8.30/tchannel-core-0.8.30-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
